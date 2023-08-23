@@ -32,3 +32,10 @@ BMAtividade7.java:5: error: class, interface, or enum expected
   }
   ^
 3 errors"
+
+## Questão 8
+* Ao executar as seguintes intruções houve a impressão do seguinte texto:
+"BMAtividade8.java:2: error: class BMAtividade is public, should be declared in a file named BMAtividade.java
+public class BMAtividade {
+       ^
+1 error"
