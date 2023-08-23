@@ -10,11 +10,25 @@
 * Já o Java Development Kit (JDK) é o JRE com a adição de ferramentas úteis ao programador ou desenvolvedor java. Exemplos: javac (compilador da linguagem), Java (interpretador), jdb (debugador) e entre outros.
 
 ## Questão 4
-* Ao executar as seguintes intruções houve a impressão do seguinte texto: "Erro: Não foi possível localizar nem carregar a classe principal BMAtividade3"
+* Ao executar as seguintes intruções houve a impressão do seguinte texto: 
+"Erro: Não foi possível localizar nem carregar a classe principal BMAtividade3"
 que foi "causada por java.lang.ClassNotFoundException: BMAtividade3"
 
 ## Questão 5
-* Ao executar as seguintes intruções houve a impressão do seguinte texto: "Erro: o método main não foi encontrado na classe BMAtividade5; defina o método main como:
+* Ao executar as seguintes intruções houve a impressão do seguinte texto: 
+"Erro: o método main não foi encontrado na classe BMAtividade5; defina o método main como:
    public static void main(String[] args)
 ou uma classe de aplicativo JavaFX deve expandir javafx.application.Application"
 
+## Questão 7
+* Ao executar as seguintes intruções houve a impressão do seguinte texto:
+"BMAtividade7.java:1: error: class, interface, or enum expected
+PUBLIC CLASS BMATIVIDADE7 {
+^
+BMAtividade7.java:4: error: class, interface, or enum expected
+    SYSTEM.OUT.PRINTLN("AL-HILAL");
+    ^
+BMAtividade7.java:5: error: class, interface, or enum expected
+  }
+  ^
+3 errors"
